@@ -6,7 +6,7 @@ Thumbs.db
 *.orig
 *.uvguix.*
 *.exe
-.vscode/settings.json
+**/.vscode/settings.json
 
 # Python cache
 __pycache__/
