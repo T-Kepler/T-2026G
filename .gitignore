@@ -1,0 +1,46 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.orig
+*.uvguix.*
+*.exe
+.vscode/settings.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Keil build output
+zuolan_stm32/MDK-ARM/zuolan_STM32/
+zuolan_stm32/MDK-ARM/*.lst
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.lnp
+*.dep
+*.build_log.htm
+
+# Quartus generated databases and reports
+**/db/
+**/incremental_db/
+*.hdb
+*.cdb
+*.ddb
+*.rdb
+*.logdb
+*.qmsg
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.done
+*.pin
+*.sld
